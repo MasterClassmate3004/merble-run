@@ -3,6 +3,8 @@ Marble Run....
 Marble runs have always seemed fun to me ~~mainly because I run really slow and to see someone go fast seems so good~~ because of the sound they make.
 It feels so satisfying that you do not want to stop playing with them.
 
+This project does not have a separate BOM.csv as only 3d prints are required which will be printed by my own 3d printer, thus I don't need to pay for anything!
+
 <hr><br>
 
 ![Assembly](1.jpeg)
